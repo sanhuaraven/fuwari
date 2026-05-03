@@ -1,6 +1,6 @@
 {
   "name": "blog",
-  "compatibility_date": "2026-05-03", // 更新为你部署当天的日期
+  "compatibility_date": "2026-05-04", // 更新为你部署当天的日期
   "assets": {
     "directory": "./dist",
   }
